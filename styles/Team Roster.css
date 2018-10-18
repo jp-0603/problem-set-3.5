@@ -1,0 +1,23 @@
+body {
+      background-color: navy;
+}
+h1 {
+    color:seagreen;
+    text-align: center;
+}
+a:hover {
+  background-color:olive
+}
+*.center-align{
+  text-align: center;
+}
+p{
+  color:white;
+}
+
+table,th,td,tr{
+  color: white;
+}
+h4 {
+    color:white;
+}

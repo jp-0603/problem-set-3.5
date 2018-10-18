@@ -1,0 +1,13 @@
+body {
+      background-color: navy;
+}
+h1 {
+    color:teal;
+    text-align: center;
+}
+a:hover {
+  background-color:oliv
+}
+*.center-align{
+  text-align: center;
+}
