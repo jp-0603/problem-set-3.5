@@ -1,12 +1,12 @@
 body {
-      background-color: navy;
+      background-color: #f4a442;
 }
 h1 {
-    color:teal;
+    color: #8eccb8;
     text-align: center;
 }
 a:hover {
-  background-color:olive
+  background-color: #f44141 
 }
 *.center-align{
   text-align: center;
