@@ -1,0 +1,19 @@
+body{
+      background-color:Gold;
+}
+h1 {
+    color:teal;
+    text-align: center;
+}
+a:hover {
+  background-color:black
+}
+*.center-align{
+  text-align: center;
+}
+span {
+  background-color: blue
+}
+#borderimg {
+    border-image: url(warriorslineup.jpg) 100 round;
+}
