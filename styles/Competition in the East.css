@@ -6,8 +6,11 @@ h1 {
     text-align: center;
 }
 a:hover {
-  background-color: #f44141 
+  background-color: #f44141
 }
 *.center-align{
   text-align: center;
+}
+hr + h1 {
+  font-size: 300%;
 }

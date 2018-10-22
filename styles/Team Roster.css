@@ -20,3 +20,65 @@ table,th,td,tr{
 h4 {
     color:white;
 }
+table + td{
+  color: white;
+}
+thead {
+  color: white;
+}
+td {
+  text-align: center
+}
+.pg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 100%;
+  border-radius: 25%;
+  border: 9px solid white;
+  padding: 3px;
+}
+.rw {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 100%;
+  border-radius: 25%;
+  border: 9px solid white;
+  padding: 3px;
+}
+.pp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 100%;
+  border-radius: 25%;
+  border: 9px solid white;
+  padding: 3px;
+}
+.sa {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 100%;
+  border-radius: 25%;
+  border: 9px solid white;
+  padding: 3px;
+}
+.ar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 100%;
+  border-radius: 25%;
+  border: 9px solid white;
+  padding: 3px;
+}
+footer {
+  color: white
+}
