@@ -1,5 +1,8 @@
 body {
       background-color: lightblue;
+      font-family: times;
+      font-size: 22px;
+      margin: 15px;
 }
 h1 {
     color:indigo;
@@ -10,4 +13,20 @@ a:hover {
 }
 *.center-align{
   text-align: center;
+}
+.home{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 100%;
+  border-radius: 10%;
+  border: 9px solid seagreen;
+  padding: 3px;
+}
+.intro {
+  background-color: white;
+}
+span {
+  background-color: coral;
 }

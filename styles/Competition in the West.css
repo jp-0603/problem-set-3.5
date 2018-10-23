@@ -1,5 +1,7 @@
 body{
       background-color:Gold;
+      font-family: Georgia, serif;
+      margin: 10px;
 }
 h1 {
     color:teal;
@@ -14,6 +16,31 @@ a:hover {
 span {
   background-color: blue
 }
-#borderimg {
-    border-image: url(warriorslineup.jpg) 100 round;
+p {
+  color:green;
+  font-size: 100 px;
+  line-height: 100 px;
+}
+#warriors{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 75%;
+  border-radius: 10%;
+  border: 9px solid skyblue;
+  padding: 2px;
+}
+#rockets{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 75%;
+    border-radius: 5%;
+    border: 15px solid gray;
+    padding: 2px;
+}
+span {
+  background-color: coral;
 }

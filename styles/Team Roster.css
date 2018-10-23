@@ -1,5 +1,7 @@
 body {
-      background-color: navy;
+      background-color:#0f5fd8;
+      font-family: Georgia, serif;
+      margin: 5px;
 }
 h1 {
     color:seagreen;
@@ -8,19 +10,19 @@ h1 {
 a:hover {
   background-color:olive
 }
-*.center-align{
+*.center-align {
   text-align: center;
 }
-p{
-  color:white;
+p {
+  color:orange;
 }
-table,th,td,tr{
+table,th,td,tr {
   color: white;
 }
 h4 {
     color:white;
 }
-table + td{
+table + td {
   color: white;
 }
 thead {
@@ -35,7 +37,7 @@ td {
   margin-right: auto;
   width: 50%;
   height: 100%;
-  border-radius: 25%;
+  border-radius: 15%;
   border: 9px solid white;
   padding: 3px;
 }
@@ -55,7 +57,7 @@ td {
   margin-right: auto;
   width: 50%;
   height: 100%;
-  border-radius: 25%;
+  border-radius: 10%;
   border: 9px solid white;
   padding: 3px;
 }
@@ -65,7 +67,7 @@ td {
   margin-right: auto;
   width: 50%;
   height: 100%;
-  border-radius: 25%;
+  border-radius: 5%;
   border: 9px solid white;
   padding: 3px;
 }
@@ -74,11 +76,14 @@ td {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  height: 100%;
-  border-radius: 25%;
+  height: 75%;
+  border-radius: 20%;
   border: 9px solid white;
-  padding: 3px;
+  padding: 2px;
 }
 footer {
   color: white
+}
+#lineup {
+  background-color: black;
 }
