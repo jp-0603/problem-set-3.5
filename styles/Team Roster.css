@@ -16,17 +16,14 @@ a:hover {
 p {
   color:orange;
 }
-table,th,td,tr {
-  color: white;
+table,th,td,tr,{
+  color: ##4f1d1d;
 }
 h4 {
     color:white;
 }
-table + td {
-  color: white;
-}
 thead {
-  color: white;
+  color: #edc338;
 }
 td {
   text-align: center
