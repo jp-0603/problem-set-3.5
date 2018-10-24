@@ -24,9 +24,10 @@ h4 {
 }
 thead {
   color: #edc338;
+  text-align:center;
 }
 td {
-  text-align: center
+  text-align: center;
 }
 .pg {
   display: block;
